@@ -1,4 +1,4 @@
-module Options
+module OptionType
 
 export Option, None, Some, isempty, get, map, and_then, or_else
 
