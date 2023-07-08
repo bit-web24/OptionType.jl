@@ -31,7 +31,7 @@ println(result)                     # Output: 100
 
 ## Installation
 To install Options.jl, you can use the Julia package manager. Open a Julia REPL and run the following command:
-```julia
+```bash
 ]add Options
 ```
 
